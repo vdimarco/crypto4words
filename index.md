@@ -103,5 +103,5 @@ Loopring        | LRC   | Decentralized exchange
 Edgeless        | EDG   | Decentralized casino                     
 FairCoin        | FAIR  | Bitcoin that rewards savers
 
-source: https://techcrunch.com/2017/11/19/100-cryptocurrencies-described-in-4-words-or-less/
+original source: [techcrunch](https://techcrunch.com/2017/11/19/100-cryptocurrencies-described-in-4-words-or-less/)
 
