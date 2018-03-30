@@ -1,7 +1,7 @@
 # Crypto Currencies In 4 Words Or Less.
 
 Name            | Sym.  | Description                              
-----------------|-------|------------------------------------------
+----------------|-------|---------------------------------------------------------
 Bitcoin         | BTC   | Digital gold                             
 Ethereum        | ETH   | Programmable contracts and money         
 Bitcoin Cash    | BCH   | Bitcoin clone                            
@@ -103,5 +103,5 @@ Loopring        | LRC   | Decentralized exchange
 Edgeless        | EDG   | Decentralized casino                     
 FairCoin        | FAIR  | Bitcoin that rewards savers
 
-original source: [techcrunch](https://techcrunch.com/2017/11/19/100-cryptocurrencies-described-in-4-words-or-less/)
+source: Nate Murray [techcrunch](https://techcrunch.com/2017/11/19/100-cryptocurrencies-described-in-4-words-or-less/)
 
